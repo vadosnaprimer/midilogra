@@ -1,0 +1,1 @@
+midilogra.exe < midilogra.txt
